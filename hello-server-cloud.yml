@@ -2,7 +2,7 @@ spring:
   application:
     name: hello-server
 
-greeting: Hello, %s from GitHub Cloud env.
+greeting: Hello, %s from GitHub Cloud env!!!
 
 management:
   endpoints:
